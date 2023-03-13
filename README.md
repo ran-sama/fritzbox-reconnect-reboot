@@ -2,7 +2,7 @@
 Python 3 and bash based tool to login and perform web-interface commands.
 
 ## Why?
-Because I was tired of my scripts breaking each FB update.
+Because I was tired of my scripts breaking each FB update. I wish they would stop making their interface less power user friendly already.
 
 ## Usage and operations
 ```
