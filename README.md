@@ -9,6 +9,7 @@ Because I was tired of my scripts breaking each FB update.
 ./fb_helper.py 10.0.0.1 username password reboot
 ./fb_helper.py 10.0.0.1 username password reconnect
 ```
+I don't like the default IP and the limited DNS of the FB, so I refuse their fritz.box placebo.
 
 ## How do I find the default username?
 ```
