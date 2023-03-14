@@ -4,9 +4,6 @@ Python 3 and bash based tool to login and perform web-interface commands.
 ## Why?
 Because I was tired of my scripts breaking each FB update. I wish they would stop making their interface less power user friendly already.
 
-## Docs  
-https://avm.de/fileadmin/user_upload/Global/Service/Schnittstellen/AVM%20Technical%20Note%20-%20Session%20ID_englisch.pdf  
-
 ## Usage and operations
 ```
 ./fb_helper.py 10.0.0.1 username password reboot
@@ -22,6 +19,9 @@ http://10.0.0.1/login_sid.lua?version=2
 
 ## I need more commands!
 Grab wireshark and record packages. Your mind is the limit.
+
+## Docs  
+https://avm.de/fileadmin/user_upload/Global/Service/Schnittstellen/AVM%20Technical%20Note%20-%20Session%20ID_englisch.pdf  
 
 ## License
 Licensed under the WTFPL license.
