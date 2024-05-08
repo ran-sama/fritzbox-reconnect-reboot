@@ -1,5 +1,5 @@
 # fritzbox-reconnect-reboot
-Python 3 and bash based tool to login and perform web-interface commands. Tested on 7490 (v7.57) and 7412 (v06.88) supporting the two methods of SID generation and different reboot commands.
+Python 3 and bash based tool to login and perform web-interface commands. Tested on 7590 (v7.57) and 7412 (v06.88) supporting the two methods of SID generation and different reboot commands.
 
 ## Why?
 Because I was tired of my scripts breaking each FB update. I wish they would stop making their interface less power user friendly already.
