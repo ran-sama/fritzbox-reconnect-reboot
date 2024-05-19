@@ -28,7 +28,7 @@ def main():
     sid = xml.find("SID").text
     print(sid)
 
-    # wireshark magic and millisecond unix timestamp plus SID
+    # wireshark magic plus SID
     url1 = "http://10.0.0.1:80/data.lua"
     data1 = "xhr=1&sid=" + sid + "&lang=de&page=dslOv&xhrId=all"
     headers = {'content-type': 'application/x-www-form-urlencoded'}
